@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-<!--
-**NotFluffy/NotFluffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on a user editable web database.
-- 🌱 I’m currently learning php and mysql.
-- 🤔 I’m looking for help with best practices in php website.
+- 🌱 I’m currently working on a user editable web database, learning php and mysql at the same time.
+- 🤔 Always looking for new things to learn.
 - 💬 Ask me about my cats!
 - 📫 How to reach me: Here
-- ⚡ Fun fact: I love cats
+- ⚡ Fun fact: I love cats, snakes and dolls
