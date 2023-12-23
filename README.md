@@ -1,3 +1,5 @@
+~Moved to self hosted~
+
 ### Hi there 👋
 
 - 🌱 I’m currently working on a user editable web database, learning php and mysql at the same time.
